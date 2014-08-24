@@ -1,4 +1,4 @@
-## CleaningDataAssignment
+# CleaningDataAssignment
 ======================
 
 This is the Cleaning Data Assignment.
